@@ -1,3 +1,3 @@
-module token/token.go
+module monkey
 
 go 1.23.4
